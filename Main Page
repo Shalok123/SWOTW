@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<head>
+ <title> The Seven Wonders of the Modern World </title>
+ <link rel="icon" type="image/JPG" href="capture.JPG" />
+ <link href="mainSWOTW.css" rel="stylesheet">
+</head>
+<body>
+ <div id="heading">
+  <div id="logo"> <img src="capture.JPG" width="250px" height="150px"> </div> <h1> The Seven Wonders Of The Modern World </h1>
+ </div>
+<nav> 
+ <ul>
+  <li><a href="file:///H:/My%20Documents/Web%20Design/SWOTW.html#">Home</a></li>
+  <li><a href="#">About Us</a></li>
+  <li><a href="file:///H:/My%20Documents/Web%20Design/TMP.html">Taj Mahal</a></li>
+  <li><a href="file:///H:/My%20Documents/Web%20Design/CP.html">Colesseum</a></li>
+  <li><a href="#">Great Wall Of China</a></li>
+  <li><a href="#">Christ The Redeemer Statue</a></li>
+  <li><a href="#">Petra</a></li>
+  <li><a href="#">Chichen Itza</a></li>
+  <li><a href="#">Machu Picchu</a></li>
+  <li><a href="#">Contact Us</a></li>
+ </ul>
+</nav>
+<div id="heading2">
+ <h1> The Seven Wonders Of The Modern World </h1>
+</div>
+<div id="SWOTWlist">
+ <ul> 
+  <li>Taj Mahal</li>
+  <li>Colesseum</li>
+  <li>Great Wall Of China</li>
+  <li>Christ The Redeemer Statue</li>
+  <li>Petra</li>
+  <li>Chichen Itza</li>
+  <li>Machu Picchu</li>
+ </ul>
+ <img src="https://cdn.images.dailystar.co.uk/dynamic/28/photos/497000/620x/TAJ-MAHAL-PYRAMIDS-MACHU-PICHU-499947.jpg" height="367px" width="550px" >
+</div> 
+<div id="HomepgIntro"> 
+ <h1> Introduction </h1>
+ <p> In 2007, more than 100 million people voted to appoint the new Seven Wonder of the Modern World. The seven to the left were declared winners without any rankings aiming to represent global heritage. They were changed from the Ancient Seven Wonders of the World which were mythical locations, historical sites and beatiful scenery. The new wonders are tourist attractions around the globe that get visited billions of times in a calendar year representing the countries culture, religion, architecture and beauty. These new locations were chosen on a basis of its beauty, tourism status, story and connections with the land and its people. These wonders were monuments of human achievement and architechture built through labor, continuous desingwork, demand and gifts from kings to their queen. </p>
+</div>
+<div id="sourceso">
+<div id="sourcesi">
+
+<h3> Our Sources</h3>
+<p>Wikipedia Contributors. “Wonders of the World.” Wikipedia, Wikimedia Foundation, 7 Nov. 2018, <em><a href="https://en.wikipedia.org/wiki/Wonders_of_the_World">https://en.wikipedia.org/wiki/Wonders_of_the_World</a></em><br>
+Travel Channel. “Why the 7 Wonders of the World Are So Wonderful.” Travel Channel, Travel Channel, 1 Feb. 2018, <em><a href="https://www.travelchannel.com/interests/outdoors-and-adventure/articles/new-seven-wonders-of-the-world">www.travelchannel.com/interests/outdoors-and-adventure/articles/new-seven-wonders-of-the-world</a></em><br>
+Rosenberg, Matt. “The 7 Wonders of the Ancient World.” Thoughtco., Dotdash, <em><a href="https://www.thoughtco.com/the-seven-wonders-of-the-world-4147695">www.thoughtco.com/the-seven-wonders-of-the-world-4147695</a></em><br></p>
+</div>
+</div>
+</body>
